@@ -1,1 +1,2 @@
-# numerical-analysis
+# Numerical Analysis
+## MACS205 @ Télécom Paris
